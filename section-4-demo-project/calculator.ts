@@ -71,4 +71,4 @@ const InvestmentData: InvestmentData = {
 };
 
 const results = calculateInvestment(InvestmentData);
-printResults(results)
+printResults(results);
